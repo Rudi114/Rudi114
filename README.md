@@ -5,7 +5,7 @@ I'm a full stack developer!.
 ## Work
 > See my resume for full details on my experience: [https://docs.google.com/document/d/1lPXFFqeredk7Ko9JmhgtSPnF6o8DTVzVrIA6PO9CMf8/edit?usp=sharing](https://docs.google.com/document/d/1lPXFFqeredk7Ko9JmhgtSPnF6o8DTVzVrIA6PO9CMf8/edit?usp=sharing)
 
-I've worked at [Edison Interactive](https://edisoninteractive.com/), was a full-stack developer at [Sana Benefits](https://www.sanabenefits.com/), and a front-end developer at [FiatDAO](https://fiatdao.com/) where I built out there governance platform.
+I've worked at [Edison Interactive](https://edisoninteractive.com/), was a full-stack developer at [Sana Benefits](https://www.sanabenefits.com/), and a front-end developer at [FiatDAO](https://fiatdao.com/).
 
 I also love traveling, playing the guitar, and cooking.
 
