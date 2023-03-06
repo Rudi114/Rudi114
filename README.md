@@ -1,19 +1,16 @@
-### Hi there 👋
+## Hi there 👋, I'm Zach!
 
-<!--
-**Rudi114/Rudi114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full stack developer!.
 
-Here are some ideas to get you started:
+## Work
+> See my resume for full details on my experience: [https://docs.google.com/document/d/1lPXFFqeredk7Ko9JmhgtSPnF6o8DTVzVrIA6PO9CMf8/edit?usp=sharing](https://docs.google.com/document/d/1lPXFFqeredk7Ko9JmhgtSPnF6o8DTVzVrIA6PO9CMf8/edit?usp=sharing)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I've worked at [Edison Interactive](https://edisoninteractive.com/), was a full-stack developer at [Sana Benefits](https://www.sanabenefits.com/), and a front-end developer at [FiatDAO](https://fiatdao.com/) where I built out there governance platform.
+I also love playing guitar, latin dancing, and cooking.
 
+#### Connect on Linkedin
+[![Zach's Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zrudebeck/)
+
+#### Github Stats 📊
 
 [![Zach's GitHub stats](https://github-readme-stats.vercel.app/api?username=rudi114)](https://github.com/anuraghazra/github-readme-stats)
