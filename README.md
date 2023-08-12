@@ -11,7 +11,3 @@ I also love traveling, playing the guitar, and cooking.
 
 #### Connect on Linkedin
 [![Zach's Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zrudebeck/)
-
-#### Github Stats 📊
-
-[![Zach's GitHub stats](https://github-readme-stats.vercel.app/api?username=rudi114)](https://github.com/anuraghazra/github-readme-stats)
